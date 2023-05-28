@@ -1,12 +1,12 @@
 <h1 align="center">
-  Wide Coverage, um simples website responsivo
+  Wide Coverage, simple responsive website
 </h1>
 
 <p align="center">
   <img src="https://github.com/joaoneon/Wide-coverage-responsive/assets/6489188/36e3b050-c3d5-4910-8ee2-d91c7a90de39" alt="animated" />
 </p>
 <h3 align="center">
-  técnologias utilizadas:  
+  technologys used:  
 </h3>
 <table align="center" height="250px">
   <td align="center">
@@ -27,8 +27,8 @@
         </td>
 </table>
   <h3 align="left">
-  Sobre o projeto:  
+  About the project:  
 </h3>
   <p align="left">
-    O projeto é um site simples feito com o intuito de práticar a criação de sites responsivos, apenas de forma visual.
+    The project is a simple responsive website, used for visual practice.
   </p>
