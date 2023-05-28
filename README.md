@@ -9,14 +9,6 @@
   técnologias utilizadas:  
 </h3>
 <table align="center" height="250px">
- <td align="center">
-            <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon" /><br>
-            <sub>
-                <b>
-                    <pre>Javascript</pre>
-                </b>
-            </sub>
-        </td>
   <td align="center">
             <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon" /><br>
             <sub>
