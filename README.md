@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/joaoneon/Wide-coverage-responsive/assets/6489188/c687b074-8c1e-4516-a6cf-9d827e793f83" alt="animated" />
+  <img src="https://github.com/joaoneon/Wide-coverage-responsive/assets/6489188/36e3b050-c3d5-4910-8ee2-d91c7a90de39" alt="animated" />
 </p>
 <h3 align="center">
   técnologias utilizadas:  
